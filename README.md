@@ -5,5 +5,3 @@
 3. git checkout <branch_name> ---> to out from a git branch and enter to another branch
 4. git checkout -b <new_branch_name> ---> create new branch
 5. git branch -d <branch_name> ---> delete branch
-
-6. check difference between two branches run command "git diff"
