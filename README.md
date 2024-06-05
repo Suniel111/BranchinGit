@@ -7,3 +7,5 @@
 5. git branch -d <branch_name> ---> delete branch
 
 if you're in branch1 and tried to delete branch1 than it will throw an error as you are currently in branch1 so can't delete branch1 but you can delete other branches.
+
+if you create or modifies any files and commit changes from a branch then it will be dissapeared for another branch.
