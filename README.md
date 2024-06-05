@@ -11,3 +11,5 @@ if you're in branch1 and tried to delete branch1 than it will throw an error as 
 if you create or modifies any files and commit changes from a branch then it will be dissapeared for another branch.
 
 to know difference between two branches run command "git diff <branch_name>"
+
+run command "git merge <other_branch_name>" to merge two branches and whenver there's conflict occurs merge by terminal instead of pull request on github webpage.
