@@ -13,3 +13,8 @@ if you create or modifies any files and commit changes from a branch then it wil
 to know difference between two branches run command "git diff <branch_name>"
 
 run command "git merge <other_branch_name>" to merge two branches and whenver there's conflict occurs merge by terminal instead of pull request on github webpage.
+
+@ "git reset" ---> when file is added by the command "git commit -m 'messege'" it is used to undo
+@ "git reset HEAD~1" ---> to undo single commit
+@ "git reset <commit_hash>" ---> undo specific commit with help of commit hash number
+@ "git reset --hard <commit_hash> ---> also remove changes from code editor.
